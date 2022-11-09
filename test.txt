@@ -6,3 +6,5 @@
 I CAN NOT view Russian text in Git Gui!
 
 This changes for new branch new_branch!
+
+Add second chagnes to this file for branch new_branch!
