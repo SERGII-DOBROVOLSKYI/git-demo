@@ -4,3 +4,5 @@
 А теперь изменил снова! Ну и!?
 
 I CAN NOT view Russian text in Git Gui!
+
+This changes for new branch new_branch!
